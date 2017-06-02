@@ -9,7 +9,7 @@ Jekyll Tagging Plugin which shows How many days you've written a blog in a row.
 Example : `{% total_blogging_date %}`
 3. Each Tags refer to:  
 **total_blogging_date** : Total blogging date from your first post date, Counts from 1 to today  
-> For example, 5/28(First posting date) ~ 5/31(Today) returns 4  
+(For example, 5/28(First posting date) ~ 5/31(Today) returns 4)  
 **current_date_streak** : Posting date streak including today's post(if it has, or including yesterday's post)  
 **longest_date_streak** : Longest date streak in whole blogging day
 
